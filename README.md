@@ -2,7 +2,7 @@
 A voice-activated AI system built from scratch. Wakes on command. Listens. Learns. Automates.
 
 
-# 🧠 Project I — Day 1
+# 🧠 Project I 
 
 > _“It isn’t an app. It isn’t a bot. It isn’t ordinary.”_  
 > _“It listens. It understands. It responds.”_
