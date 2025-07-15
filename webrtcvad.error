@@ -1,0 +1,14 @@
+# 🛠️ Project I — Setup Log (Day 2)
+
+**Date:** July 15, 2025
+
+## ✅ Today’s Achievements
+- Installed Visual Studio Build Tools 2022
+- Added MSVC v143 + Windows SDK + CMake
+- Fixed `webrtcvad` build error
+- Successfully installed `webrtcvad` and `resemblyzer`
+- Environment ready for audio processing setup
+
+## 🔄 Next Step
+- Start coding wake-word detection module
+- Integrate voice activity detection
