@@ -12,18 +12,6 @@ Designed to wake up only on specific voice commands, recognize the creator’s v
 
 ---
 
-## ⚙️ Day 1 Progress
-
-- ✅ Python 3.13 environment configured  
-- ✅ Installed voice & audio libraries  
-- ✅ Resolved C++ build toolchain issues  
-- ✅ Defined activation commands:  
-  - `"Wake up"`  
-  - `"Arise"`  
-- ✅ Finalized the assistant’s identity (to be revealed later 👀)
-
----
-
 ## 💭 Why “Project I”?
 
 Because it’s not just a tool — it’s a system that listens, learns, and evolves.  
