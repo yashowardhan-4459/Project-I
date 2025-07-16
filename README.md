@@ -51,14 +51,24 @@ A deeply personal, voice-controlled AI assistant being built from scratch — no
 
 ---
 
-### 🛣️ Current Status
+🛣️ Current Status
+✅ Environment setup completed
 
-- ✅ Environment setup completed  
-- ✅ Core libraries installed  
-- ⚙️ Wake listener and audio stream logic — next  
-- 📁 GitHub & logs actively maintained  
-- 👀 Stay tuned… this is only the beginning.
+✅ Core libraries installed (pyaudio, speechrecognition, webrtcvad, etc.)
 
+✅ Microphone test successful (mic_test.py verified)
+
+📁 GitHub initialized & daily logs being updated (Day2.md)
+
+✍️ Wake word listener module ready to begin (wake_listener.py – next up)
+
+🔄 Actively debugging folder structure & path setup issues (resolved now)
+
+🧠 Multilingual & personality planning phase in mind
+
+👣 Keeping it lean, local, and fully open-source
+
+👀 Stay tuned… this is only the beginning.
 ---
 
 > Built not to impress,  
